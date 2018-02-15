@@ -5,6 +5,7 @@ Our first app, progress to be posted here.
 
 - Game: 
 >Super-hot mechanics.
+
 >Randomly generated skill-based game.
 
 - App:
