@@ -20,4 +20,4 @@ Our first app, progress to be posted here.
 - [ ] Release after plenty of testing.
 
 ### Non-App Related To-Do:
-- [ ] 
+- [ ] Find potential investor.
